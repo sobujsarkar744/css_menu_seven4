@@ -1,0 +1,27 @@
+body{padding: 0; margin: 0;}
+.container{width: 80%; margin: auto;padding: 30px 0;}
+
+.nav{ overflow: hidden;
+align-items: center;}
+
+.logo{width: 20%;
+float: left;}
+
+.menu-item{width: 60%;
+	float: right; text-orientation:
+
+}
+.menu-item ul{list-style: none;
+padding: 0; text-align: right;}
+
+.menu-item ul li{display: inline;}
+
+.menu-item ul li a{ text-decoration: none;
+ text-transform: uppercase; padding: 0 10px;color:#383738;}
+
+ .menu-item li:last-child a{padding-right: 0;}
+
+ .menu-item ul li a:hover{color: #37B586;cursor: pointer;}
+ 
+ 
+
